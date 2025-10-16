@@ -27,9 +27,13 @@ Welcome to my PCB Design Portfolio, a showcase of selected projects highlighting
 - High Speed LVDS/SLVS and SerDes interfaces  
 - Noise-immune analog signal conditioning  
 
-📸 *(Add images/screenshots of PCB layouts here for each project)*  
+### **PCB Design Images**
+Here are the pictures of my previous PCB design and fabrication work:
 
----
+![image alt](https://github.com/PCB-Design-Portfolio/PCB-Design-Highlights/blob/7f25beece9558fa3038b4324586e9ecc80681168/1.jpg)
+![image alt](https://github.com/PCB-Design-Portfolio/PCB-Design-Highlights/blob/7f25beece9558fa3038b4324586e9ecc80681168/2.jpg)
+![image alt](https://github.com/PCB-Design-Portfolio/PCB-Design-Highlights/blob/7f25beece9558fa3038b4324586e9ecc80681168/3.jpg) 
+-
 
 ## 📜 Deliverables for Clients  
 When working on turnkey PCB projects, I provide:  
