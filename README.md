@@ -23,8 +23,8 @@ Welcome to my PCB Design Portfolio, a showcase of selected projects highlighting
 - Designed for automotive-grade reliability  
 
 ### 3. **High Speed Mixed Signal Board**  
-- Xilinx UltrascalePlus+ FPGA **(XCKU11P-2FFVD900I & XCAU25P-1FFVB676I)** 
-- Multi-rail power sequencing  
+- Xilinx UltrascalePlus+ FPGA **(XCKU11P-2FFVD900I & XCAU25P-1FFVB676I)** are utilized.
+- High Speed LVDS/SLVS and SerDes interfaces  
 - Noise-immune analog signal conditioning  
 
 📸 *(Add images/screenshots of PCB layouts here for each project)*  
